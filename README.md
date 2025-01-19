@@ -37,23 +37,6 @@ Pillow
 scipy
 ```
 
-## Installation
-
-1. Clone the repository:
-```bash
-git clone [repository-url]
-cd [repository-name]
-```
-
-2. Install required packages:
-```bash
-pip install -r requirements.txt
-```
-
-3. Download the pre-trained model:
-```bash
-# Place model_best_val_loss_var.pkl in the project root directory
-```
 
 ## Usage
 
